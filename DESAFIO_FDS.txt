@@ -1,0 +1,13 @@
+Desafio para o fim de semana:
+
+No mesmo projeto, crie uma biblioteca chamada 'interface' que tenha uma opção de mostrar menu.
+
+No menu tera opcoes como abaixo:
+Digite a opcao desejada:
+1- Calcular o dobro
+2- Calcular o triplo
+3- Calcular o quadrado
+
+Implemente tambem a nova funcao quadrado na biblioteca calculo
+
+Mude o programa principal para mostrar o menu em loop, e execute a funcao escolhida pelo usuario até que ele escolha 4 e finalize o programa.
