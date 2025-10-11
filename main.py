@@ -1,5 +1,7 @@
-import calculo
+# import calculo
+# importando de outro jeito:
 
+from calculo import dobro, triplo # consigo importar as funções que eu quero
 
 print("Olá, mundo agora no VScode!!!\n")
 print("programa do dobro")
