@@ -31,8 +31,10 @@ def menu():
         elif escolha == 4:
             print("SAIR")
             break
+
         else:
             print("Digite o número correto!")
+            continue
 
 if start == "sim":
     menu()
