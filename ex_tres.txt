@@ -1,0 +1,1 @@
+A função split() em Python divide uma string em uma lista de substrings, usando um separador especificado. Por padrão, divide a string em espaços em branco, mas pode ser configurada para usar qualquer outro caractere como divisor, como vírgulas, pontos ou até sequências de caracteres. 

@@ -1,0 +1,20 @@
+Nome: Fabio
+Telefone: 839232112
+E-mail: fabio@gmail.com
+Endereço: rua manaus oliveira
+----------------------------------------
+Nome: Edgar
+Telefone: 23I493843
+E-mail: Edgarred@gmail.com
+Endereço: Rua Olivia Amadeus
+----------------------------------------
+Nome: Matheus
+Telefone: 298392122
+E-mail: MateusMidaz@gmail.com
+Endereço: Rua Aurela dos Campos, 62
+----------------------------------------
+Nome: Magal
+Telefone: 248343212
+E-mail: SideneyMagal@gmail.com
+Endereço: rua Sid Barcelona
+----------------------------------------

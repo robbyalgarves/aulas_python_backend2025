@@ -1,0 +1,4 @@
+nome, sobrenome, email, cpf
+joao,silva,joao@silva.com,23412345423
+jose,souza,jose@souza.com,46812384762
+julio,santos,julio@santos.com,72345673231
